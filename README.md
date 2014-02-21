@@ -1,6 +1,6 @@
 Personal fork of Seaweed's 4chan X.
 
-##[Install](https://github.com/whatisausername/4chan-x/blob/patch-2/builds/4chan-X.user.js) (Firefox)
+##[Install](https://github.com/whatisausername/4chan-x/raw/patch-2/builds/4chan-X.user.js) (Firefox)
 ##[Install](https://github.com/Spittie/4chan-x/raw/master/builds/crx.crx) (Chrom*)
 ##[Install](http://a.pomf.se/ermdzx.xpi) (Firefox Mobile)
 
